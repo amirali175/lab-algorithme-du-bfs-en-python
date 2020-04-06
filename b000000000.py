@@ -3,6 +3,7 @@
 
 @author: amirali175
 """
+
 eleves = {}
 eleves["Boris"]=["Amir","Franck","Nathalie","Bertrand"]
 eleves["Amir"]=[]
